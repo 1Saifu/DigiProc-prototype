@@ -1,0 +1,24 @@
+[
+    {
+      "name": "Savings & ost avoidance",
+      "rating": 4,
+      "price": 90000,
+      "imageUrl": "https://via.placeholder.com/150",
+      "color": "Orange"
+    },
+    {
+      "name": "Code of Conduct",
+      "rating": 4,
+      "price": 90000,
+      "imageUrl": "https://via.placeholder.com/150",
+      "color": "Blue"
+    },
+    {
+      "name": "ESG measurement",
+      "rating": 4,
+      "price": 90000,
+      "imageUrl": "https://via.placeholder.com/150",
+      "color": "Green"
+    }
+  ]
+  
