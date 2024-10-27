@@ -3,21 +3,21 @@
       "name": "Savings & Cost avoidance",
       "rating": 4,
       "price": 90000,
-      "imageUrl": "https://via.placeholder.com/150",
+      "imageUrl": "/Product.png",
       "color": "Orange"
     },
     {
       "name": "Code of Conduct",
       "rating": 4,
       "price": 90000,
-      "imageUrl": "https://via.placeholder.com/150",
+      "imageUrl": "/Product2.png",
       "color": "Blue"
     },
     {
       "name": "ESG measurement",
       "rating": 4,
       "price": 90000,
-      "imageUrl": "https://via.placeholder.com/150",
+      "imageUrl": "/Product3.png",
       "color": "Green"
     }
   ]
