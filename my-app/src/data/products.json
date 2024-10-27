@@ -4,21 +4,21 @@
       "rating": 4,
       "price": 90000,
       "imageUrl": "/Product.png",
-      "color": "Orange"
+      "color": "DC840A"
     },
     {
       "name": "Code of Conduct",
       "rating": 4,
       "price": 90000,
       "imageUrl": "/Product2.png",
-      "color": "Blue"
+      "color": "1A364C"
     },
     {
       "name": "ESG measurement",
       "rating": 4,
       "price": 90000,
       "imageUrl": "/Product3.png",
-      "color": "Green"
+      "color": "009760"
     }
   ]
   
