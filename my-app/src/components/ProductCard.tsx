@@ -19,7 +19,7 @@ const ProductCard = ({ name, rating, price, imageUrl, color }: Product) => {
             <h2 style={{ color: `#${color}`, fontSize: '18px', fontWeight: '5px' }}>{name}</h2>
             <p>Ratings</p>
             <StarRating rating={rating} />
-            <button style={{ background: `#${color}`, borderRadius: '5px', width: '250px', height: '50px'}}>
+            <button style={{ background: `#${color}`, borderRadius: '5px', width: '250px', height: '50px', marginTop: '20px'}}>
                 <p style={{ color: 'white', fontSize: '18px', fontWeight: 'bold'}}>Add to Cart</p>
             </button>
         </div>
