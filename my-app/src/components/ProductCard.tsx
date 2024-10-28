@@ -20,7 +20,7 @@ const ProductCard = ({ name, rating, price, imageUrl, color }: Product) => {
             <p>Ratings</p>
             <StarRating rating={rating} />
             <button style={{ background: `#${color}`, borderRadius: '5px', width: '250px', height: '50px', marginTop: '20px'}}>
-                <p style={{ color: 'white', fontSize: '18px', fontWeight: 'bold'}}>Add to Cart</p>
+                <p style={{ color: 'white', fontSize: '18px', fontWeight: 'bold'}}>ADD TO CART</p>
             </button>
         </div>
     );
